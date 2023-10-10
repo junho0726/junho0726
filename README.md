@@ -1,7 +1,7 @@
 
 <div align="center">
  
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Junho%20Kim&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=200&section=header&text=Junho%20Kim&fontSize=70" />
 
 <strong>Back-End Stack</strong>
 </br>
@@ -42,5 +42,5 @@
 </a>
 </br>
 </br>
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=100&section=footer&fontSize=30">
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=100&section=footer&fontSize=30">
 </div>
