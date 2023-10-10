@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 </br>
 </br>
-SNS
+<strong>SNS & Blog</strong>
 </br>
 </br>
 <a href="https://velog.io/@developer_jun07">
