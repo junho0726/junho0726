@@ -1,2 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Junho%20Kim&fontSize=70)
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Junho%20Kim&fontSize=70)
+<div align="center">
+ <strong>Platforms & Programming Languages</strong>
+</div>
