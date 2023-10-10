@@ -40,5 +40,7 @@ SNS
 <a href="https://velog.io/@developer_jun07">
   <img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white" alt="블로그">
 </a>
+</br>
+</br>
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=100&section=footer&fontSize=30">
 </div>
